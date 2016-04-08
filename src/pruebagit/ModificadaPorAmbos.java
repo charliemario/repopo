@@ -14,7 +14,7 @@ public class ModificadaPorAmbos {
     
     public void saludoModificado()
     {
-        System.out.println("Hola chicos y chicas");
+        System.out.println("Hola chicos y chicas.");
     }
     
 }
