@@ -10,7 +10,7 @@ package paqueteCarlos;
  *
  * @author Vespertino
  */
-public class ClaseCarlos {
+public class ClaseCarlosDirecta {
     
     public void saludo()
     {
